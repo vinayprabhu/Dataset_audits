@@ -1,5 +1,4 @@
-# ImageNet
-All of the ImageNet meta-datasets and notebooks
+# Below is the explanation of what each of the individual notebooks entail and deliver:
 
 # 1: Insightface and Dex CAGe (Count / Age / Gender) analysis
 
