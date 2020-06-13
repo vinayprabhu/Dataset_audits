@@ -1,0 +1,12 @@
+file_name	shape	file_contents
+df_insightface_stats.csv	(1000, 30)	24 classwise statistical parameters obtained by running the InsightFace model on the ImageNet dataset
+df_audit_age_gender_dex.csv	(1000, 12)	11 classwise (ordered by the wordnet-id) statistical parameters obtained from the json files (of the DEX paper):  Dulhanty C, Wong A. Auditing imagenet: Towards a model-driven framework for annotating demographic attributes of large-scale image datasets. arXiv preprint arXiv:1905.01347. 2019 May 3. 
+df_nsfw.csv	(1000, 5)	 The mean and std of the NSFW scores of the train and val images arranged per-class. (Unnamed: 0: WordNetID of the class)
+df_acc_classwise_resnet50.csv	(1000, 7)	Classwise accuracy metrics (& the imagelevel preds) obtained by running the ResNet50 model on ImageNet train and Val sets
+df_acc_classwise_NasNet_mobile.csv	(1000, 7)	Classwise accuracy metrics (& the imagelevel preds) obtained by running the NasNet model on ImageNet train and Val sets
+df_imagenet_names_umap.csv	(1000, 5)	DF with 2D UMAP embeddings of the Glove vectors of the classes of the ImageNet dataset
+df_census_imagenet_61.csv	(1000, 61)	The MAIN census dataframe covering class-wise metrics across 61 parameters, all of which are explained in df_census_columns_interpretation.csv
+df_census_columns_interpretation.csv	(61, 2)	The interpretations of the 61 metrics of the the census dataframe above!
+df_hand_survey.csv	(61, 3)	 Dataframe contaimning the details of the 61 images unearthed via hand survey (Do not pay heed to 61. it is a mere coincidence)
+df_classes_tiny_images_3.csv	(75846, 3)	Dataframe containing the class_ind, class_name (wordnet noun) and n_images
+df_dog_analysis.csv	(7, 4)	Dataframe containing breed, gender_ratio and survey result from the paper Breed differences in canine aggression'
