@@ -26,7 +26,7 @@ The goal of the repository is to host all the code and community data assets we 
 
 	 * [ImageNet_2_NSFW_analysis](Notebooks/ImageNet_2_NSFW_analysis.ipynb)
 ([nbviewer](https://nbviewer.jupyter.org/github/vinayprabhu/Dataset_audits/blob/master/Notebooks/ImageNet_2_NSFW_analysis.ipynb))
--
+- Co-occurence bias analysis (Dog ownership and musical instruments)
 
 	 * [ImageNet_3_Gender_Dog_musical_instruments_final](Notebooks/ImageNet_3_Gender_Dog_musical_instruments_final.ipynb)
 ([nbviewer](https://nbviewer.jupyter.org/github/vinayprabhu/Dataset_audits/blob/master/Notebooks/ImageNet_3_Gender_Dog_musical_instruments_final.ipynb))
@@ -46,7 +46,7 @@ The goal of the repository is to host all the code and community data assets we 
 
 	 * [ImageNet_6B_acc_NasNet](Notebooks/ImageNet_6B_acc_NasNet.ipynb)
 ([nbviewer](https://nbviewer.jupyter.org/github/vinayprabhu/Dataset_audits/blob/master/Notebooks/ImageNet_6B_acc_NasNet.ipynb))
--
+- Coalescing all the results to form a monolithic census dataframe
 
 	 * [ImageNet_7_Census_munge](Notebooks/ImageNet_7_Census_munge.ipynb)
 ([nbviewer](https://nbviewer.jupyter.org/github/vinayprabhu/Dataset_audits/blob/master/Notebooks/ImageNet_7_Census_munge.ipynb))
