@@ -1,6 +1,6 @@
 file_name	shape	file_contents
 df_insightface_stats.csv	(1000, 30)	24 classwise statistical parameters obtained by running the InsightFace model on the ImageNet dataset
-df_audit_age_gender_dex.csv	(1000, 12)	11 classwise (ordered by the wordnet-id) statistical parameters obtained from the json files (of the DEX paper):  Dulhanty C, Wong A. Auditing imagenet: Towards a model-driven framework for annotating demographic attributes of large-scale image datasets. arXiv preprint arXiv:1905.01347. 2019 May 3. 
+df_audit_age_gender_dex.csv	(1000, 12)	11 classwise (ordered by the wordnet-id) statistical parameters obtained from the json files (of the DEX paper):  Dulhanty C, Wong A. Auditing imagenet: Towards a model-driven framework for annotating demographic attributes of large-scale image datasets. arXiv preprint arXiv:1905.01347. 2019 May 3. 
 df_nsfw.csv	(1000, 5)	 The mean and std of the NSFW scores of the train and val images arranged per-class. (Unnamed: 0: WordNetID of the class)
 df_acc_classwise_resnet50.csv	(1000, 7)	Classwise accuracy metrics (& the imagelevel preds) obtained by running the ResNet50 model on ImageNet train and Val sets
 df_acc_classwise_NasNet_mobile.csv	(1000, 7)	Classwise accuracy metrics (& the imagelevel preds) obtained by running the NasNet model on ImageNet train and Val sets
