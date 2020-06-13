@@ -1,0 +1,62 @@
+col_names_census,Interpretation
+class_number,ImageNet class number (0-990)
+wordnet_id,To uniquely identify a synset ImageNet uses WordNet ID -wnid- which is a concatenation of POS ( i.e. part of speech ) and SYNSET OFFSET of WordNet.
+label,String value describing the class of image
+uri,Princeton URI -ID
+n_train,Number of training images in the class
+n_val,Number of val images in the class
+n_humans_train,Number of training images of the class with humans in it
+n_humans_val,Number of val images of the class with humans in it
+Nunique_humans_train,Est number of humans in the training images of the class
+gender_skewness_train,Skewness of the gender in the training images of the class according to the InsightFace model
+age_min_train,Min age in the training images of the class according to the InsightFace model
+age_max_train,Max age in the training images of the class according to the InsightFace model
+n_women_train,Number of women in the training images of the class according to the InsightFace model
+mean_age_women_train,Mean age in the training images of the class identified as women according to the InsightFace model
+std_age_women_train,STD of the ages in the training images of the class identified as women according to the InsightFace model
+n_men_train,Number of men in the training images of the class according to the InsightFace model
+mean_age_men_train,Mean age in the training images of the class identified as men according to the InsightFace model
+std_age_men_train,STD of the ages in the training images of the class identified as men according to the InsightFace model
+age_min_val,Min age in the val images of the class according to the InsightFace model
+age_max_val,Max age in the val images of the class according to the InsightFace model
+Nunique_humans_val,Est number of humans in the val images of the class
+gender_skewness_val,Skewness of the gender in the val images of the class according to the InsightFace model
+n_women_val,Number of women in the val images of the class according to the InsightFace model
+mean_age_women_val,Mean age in the val images of the class identified as women according to the InsightFace model
+std_age_women_val,STD of the ages in the val images of the class identified as women according to the InsightFace model
+n_men_val,Number of men in the val images of the class according to the InsightFace model
+mean_age_men_val,Mean age in the val images of the class identified as men according to the InsightFace model
+std_age_men_val,STD of the ages in the val images of the class identified as men according to the InsightFace model
+age_min,Min age in the images of the class according to the InsightFace model
+age_max,Max age in the images of the class according to the InsightFace model
+n_faces_raw_audit,Number of faces found in the training images of this class by the DEX model across all confidence levels
+n_faceswithages_audit,Number of faces found in the training images of this class by the DEX model with high -90+- confidence levels
+n_train_audit,Number of training images used in the audit paper of this class
+mean_age_audit,Mean of the estimated age for the training images of this class according to the DEX model used in the audit paper
+std_age_audit,STD of the estimated age for the training images of this class  according to the DEX model used in the audit paper
+skew_age_audit,SKEW of the estimated age for the training images of this class  according to the DEX model used in the audit paper
+n_faceswithages_audit_2,Number of faces found in the training images used in the audit paper of this class
+n_train_audit_2,Number of training images used in the audit paper of this class
+mean_gender_audit,Mean of the estimated gender 0-1 for the training images of this class according to the DEX model used in the audit paper
+std_gender_audit,STD of the estimated gender 0-1 for the training images of this class  according to the DEX model used in the audit paper
+skew_gender_audit,SKEW of the estimated gender 0-1 for the training images of this class  according to the DEX model used in the audit paper
+mean_nsfw_train,Mean NSFW score for the training images in the class
+mean_nsfw_val,Mean NSFW score for the val images in the class
+std_nsfw_train,STD of the NSFW scores for the training images in the class
+std_nsfw_val,STD of the NSFW scores for the val images in the class
+mean_top1_train_r50,Mean classwise Top-1 train accuracy using the ResNET50 pretrained model
+mean_top1_val_r50,Mean classwise Top-1 val accuracy using the ResNET50 pretrained model
+mean_top5_train_r50,Mean classwise Top-5 train accuracy using the ResNET50 pretrained model
+mean_top5_val_r50,Mean classwise Top-5 val accuracy using the ResNET50 pretrained model
+pred_train_r50,List of image-level predictions for training images in the class using ResNet50 pretrained model
+pred_val_r50,List of image-level predictions for val images in the class using ResNet50 pretrained model
+mean_top1_train_nnm,Mean classwise Top-1 train accuracy using the NasNetMobile pretrained model
+mean_top1_val_nnm,Mean classwise Top-1 val accuracy using the NasNetMobile pretrained model
+mean_top5_train_nnm,Mean classwise Top-5 train accuracy using the NasNetMobile pretrained model
+mean_top5_val_nnm,Mean classwise Top-5 val accuracy using the NasNetMobile pretrained model
+pred_train_nnm,List of image-level predictions for training images in the class using ResNet50 pretrained model
+pred_val_nnm,List of image-level predictions for val images in the class using ResNet50 pretrained model
+class_number_umap,Class number of the ImageNet class while creating the glove embeddings
+label_renamed_glove,Handcrafted labels of the ImageNet class while creating the glove embeddings
+umap_x,Dimension 0 of the UMAP dim reduction of the Glove 300D Embeddings of the contents of label_renamed_glove
+umap_y,Dimension 1 of the UMAP dim reduction of the Glove 300D Embeddings of the contents of label_renamed_glove

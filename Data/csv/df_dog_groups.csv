@@ -1,0 +1,207 @@
+,breed,dog_group
+0,Blue Lacy,Herding
+1,Queensland Heeler,Herding
+2,Rhod Ridgeback,Hound
+3,Retriever,Sporting
+4,Chinese Sharpei,Non-Sporting
+5,Black Mouth Cur,Herding
+6,Catahoula,Herding
+7,Staffordshire,Terrier
+8,Affenpinscher,Toy
+9,Afghan Hound,Hound
+10,Airedale Terrier,Terrier
+11,Akita,Working
+12,Australian Kelpie,Working
+13,Alaskan Malamute,Working
+14,English Bulldog,Non-Sporting
+15,American Bulldog,Non-Sporting
+16,American English Coonhound,Hound
+17,American Eskimo Dog (Miniature),Non-Sporting
+18,American Eskimo Dog (Standard),Non-Sporting
+19,American Eskimo Dog (Toy),Toy
+20,American Foxhound,Hound
+21,American Hairless Terrier,Terrier
+22,American Staffordshire Terrier,Terrier
+23,American Water Spaniel,Sporting
+24,Anatolian Shepherd Dog,Working
+25,Australian Cattle Dog,Herding
+26,Australian Shepherd,Herding
+27,Australian Terrier,Terrier
+28,Basenji,Hound
+29,Basset Hound,Hound
+30,Beagle,Hound
+31,Bearded Collie,Herding
+32,Beauceron,Herding
+33,Bedlington Terrier,Terrier
+34,Belgian Malinois,Herding
+35,Belgian Sheepdog,Herding
+36,Belgian Tervuren,Herding
+37,Bergamasco,Herding
+38,Berger Picard,Herding
+39,Bernese Mountain Dog,Working
+40,Bichon Fris_,Non-Sporting
+41,Black and Tan Coonhound,Hound
+42,Black Russian Terrier,Working
+43,Bloodhound,Hound
+44,Bluetick Coonhound,Hound
+45,Boerboel,Working
+46,Border Collie,Herding
+47,Border Terrier,Terrier
+48,Borzoi,Hound
+49,Boston Terrier,Non-Sporting
+50,Bouvier des Flandres,Herding
+51,Boxer,Working
+52,Boykin Spaniel,Sporting
+53,Briard,Herding
+54,Brittany,Sporting
+55,Brussels Griffon,Toy
+56,Bull Terrier,Terrier
+57,Bull Terrier (Miniature),Terrier
+58,Bulldog,Non-Sporting
+59,Bullmastiff,Working
+60,Cairn Terrier,Terrier
+61,Canaan Dog,Working
+62,Cane Corso,Working
+63,Cardigan Welsh Corgi,Herding
+64,Cavalier King Charles Spaniel,Toy
+65,Cesky Terrier,Terrier
+66,Chesapeake Bay Retriever,Sporting
+67,Chihuahua,Toy
+68,Chinese Crested Dog,Toy
+69,Chinese Shar Pei,Non-Sporting
+70,Chinook,Working
+71,Chow Chow,Non-Sporting
+72,Cirneco dell'Etna,Hound
+73,Clumber Spaniel,Sporting
+74,Cocker Spaniel,Sporting
+75,Collie,Herding
+76,Coton de Tulear,Non-Sporting
+77,Curly-Coated Retriever,Sporting
+78,Dachshund,Hound
+79,Dalmatian,Non-Sporting
+80,Dandie Dinmont Terrier,Terrier
+81,Doberman Pinsch,Working
+82,Doberman Pinscher,Working
+83,Dogue De Bordeaux,Working
+84,English Cocker Spaniel,Sporting
+85,English Foxhound,Hound
+86,English Setter,Sporting
+87,English Springer Spaniel,Sporting
+88,English Toy Spaniel,Toy
+89,Entlebucher Mountain Dog,Herding
+90,Field Spaniel,Sporting
+91,Finnish Lapphund,Herding
+92,Finnish Spitz,Non-Sporting
+93,Flat-Coated Retriever,Sporting
+94,French Bulldog,Non-Sporting
+95,German Pinscher,Working
+96,German Shepherd,Herding
+97,German Shorthaired Pointer,Sporting
+98,German Wirehaired Pointer,Sporting
+99,Giant Schnauzer,Working
+100,Glen of Imaal Terrier,Terrier
+101,Golden Retriever,Sporting
+102,Gordon Setter,Sporting
+103,Great Dane,Working
+104,Great Pyrenees,Working
+105,Greater Swiss Mountain Dog,Working
+106,Greyhound,Hound
+107,Harrier,Hound
+108,Havanese,Toy
+109,Ibizan Hound,Hound
+110,Icelandic Sheepdog,Herding
+111,Irish Red and White Setter,Sporting
+112,Irish Setter,Sporting
+113,Irish Terrier,Terrier
+114,Irish Water Spaniel,Sporting
+115,Irish Wolfhound,Hound
+116,Italian Greyhound,Toy
+117,Japanese Chin,Toy
+118,Keeshond,Non-Sporting
+119,Kerry Blue Terrier,Terrier
+120,Komondor,Working
+121,Kuvasz,Working
+122,Labrador Retriever,Sporting
+123,Lagotto Romagnolo,Sporting
+124,Lakeland Terrier,Terrier
+125,Leonberger,Working
+126,Lhasa Apso,Non-Sporting
+127,L_wchen,Non-Sporting
+128,Maltese,Toy
+129,Manchester Terrier,Terrier
+130,Mastiff,Working
+131,Miniature American Shepherd,Herding
+132,Miniature Bull Terrier,Terrier
+133,Miniature Pinscher,Toy
+134,Miniature Schnauzer,Terrier
+135,Neapolitan Mastiff,Working
+136,Newfoundland,Working
+137,Norfolk Terrier,Terrier
+138,Norwegian Buhund,Herding
+139,Norwegian Elkhound,Hound
+140,Norwegian Lundehund,Non-Sporting
+141,Norwich Terrier,Terrier
+142,Nova Scotia Duck Tolling Retriever,Sporting
+143,Old English Sheepdog,Herding
+144,Otterhound,Hound
+145,Papillon,Toy
+146,Parson Russell Terrier,Terrier
+147,Pekingese,Toy
+148,Pembroke Welsh Corgi,Herding
+149,Petit Basset Griffon Vend_en,Hound
+150,Pharaoh Hound,Hound
+151,Plott,Hound
+152,Pointer,Sporting
+153,Polish Lowland Sheepdog,Herding
+154,Pomeranian,Toy
+155,Standard Poodle,Non-Sporting
+156,Miniature Poodle,Non-Sporting
+157,Toy Poodle,Toy
+158,Portuguese Podengo Pequeno,Hound
+159,Portuguese Water Dog,Working
+160,Pug,Toy
+161,Puli,Herding
+162,Pyrenean Shepherd,Herding
+163,Rat Terrier,Terrier
+164,Redbone Coonhound,Hound
+165,Rhodesian Ridgeback,Hound
+166,Rottweiler,Working
+167,Russell Terrier,Terrier
+168,St. Bernard,Working
+169,Saluki,Hound
+170,Samoyed,Working
+171,Schipperke,Non-Sporting
+172,Scottish Deerhound,Hound
+173,Scottish Terrier,Terrier
+174,Sealyham Terrier,Terrier
+175,Shetland Sheepdog,Herding
+176,Shiba Inu,Non-Sporting
+177,Shih Tzu,Toy
+178,Siberian Husky,Working
+179,Silky Terrier,Toy
+180,Skye Terrier,Terrier
+181,Sloughi,Hound
+182,Smooth Fox Terrier,Terrier
+183,Soft-Coated Wheaten Terrier,Terrier
+184,Spanish Water Dog,Herding
+185,Spinone Italiano,Sporting
+186,Staffordshire Bull Terrier,Terrier
+187,Standard Schnauzer,Working
+188,Sussex Spaniel,Sporting
+189,Swedish Vallhund,Herding
+190,Tibetan Mastiff,Working
+191,Tibetan Spaniel,Non-Sporting
+192,Tibetan Terrier,Non-Sporting
+193,Toy Fox Terrier,Toy
+194,Treeing Walker Coonhound,Hound
+195,Vizsla,Sporting
+196,Weimaraner,Sporting
+197,Welsh Springer Spaniel,Sporting
+198,Welsh Terrier,Terrier
+199,West Highland White Terrier,Terrier
+200,Whippet,Hound
+201,Wire Fox Terrier,Terrier
+202,Wirehaired Pointing Griffon,Sporting
+203,Wirehaired Vizsla,Sporting
+204,Xoloitzcuintli,Non-Sporting
+205,Yorkshire Terrier,Toy
